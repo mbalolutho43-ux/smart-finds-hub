@@ -256,3 +256,18 @@ footer p {
         grid-template-columns: 1fr;
     }
 }
+.affiliate-disclosure {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 15px 20px;
+    background: #f5f5f5;
+    border-left: 4px solid #333;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.affiliate-disclosure p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.6;
+}
