@@ -276,3 +276,8 @@ footer p {
     font-weight: 500;
     margin-top: 12px;
 }
+.affiliate-disclosure {
+    font-size: 0.9rem;
+    opacity: 0.75;
+    margin: 10px 0 25px;
+}
